@@ -28,7 +28,7 @@ Here is a sample Dot file.
         "Middle"->"End"
     }
 
-This will produce a graph with 3 nodes with the names `Start`, `Middle` and `End`. There will be an edge line connecting them in order. Go checkout the [GraphViz Gallery](http://graphviz.org/Gallery.php) to see some examples of what you can do with it.
+This will produce a graph with 3 nodes with the names `Start`, `Middle` and `End`. There will be an edge line connecting them in order. Go checkout the [GraphViz Gallery](http://graphviz.org/Gallery/) to see some examples of what you can do with it.
 
 ## How PSGraph can help
 we can create those Dot files with PSGraph in Powershell. Here is that same graph as above.
